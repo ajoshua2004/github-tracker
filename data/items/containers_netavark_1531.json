@@ -1,0 +1,27 @@
+{
+    "type": "pull_request",
+    "organization": "containers",
+    "repository": "netavark",
+    "number": 1531,
+    "title": "plans: install kernel modules and reboot for sctp test support",
+    "url": "https://github.com/containers/netavark/pull/1531",
+    "author": "ajoshua2004",
+    "labels": [],
+    "created_at": "2026-10-19T19:23:15Z",
+    "updated_at": "2026-11-03T12:55:17Z",
+    "closed_at": "2026-11-03T12:55:17Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author",
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2026-10-30T18:00:20Z",
+    "reviews": {
+        "Luap99": "APPROVED",
+        "ajoshua2004": "COMMENTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-11-03T12:55:17Z"
+}

@@ -1,0 +1,27 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7141,
+    "title": "imagebuildah: return true from waitForStage when stage fails with error",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7141",
+    "author": "Thundercloud12",
+    "labels": [],
+    "created_at": "2026-10-03T05:43:15Z",
+    "updated_at": "2026-10-21T10:26:16Z",
+    "closed_at": "2026-10-21T10:26:26Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-10-15T16:59:56Z",
+    "reviews": {
+        "ajoshua2004": "APPROVED",
+        "nalind": "APPROVED",
+        "Honny1": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-10-21T10:26:26Z"
+}

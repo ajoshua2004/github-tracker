@@ -1,0 +1,28 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7170,
+    "title": "add: copy --parents leaking host directories",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7170",
+    "author": "ajoshua2004",
+    "labels": [],
+    "created_at": "2026-10-15T15:05:47Z",
+    "updated_at": "2026-10-19T21:23:10Z",
+    "closed_at": "2026-10-19T21:23:10Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author",
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2026-10-16T14:43:22Z",
+    "reviews": {
+        "Honny1": "APPROVED",
+        "ajoshua2004": "COMMENTED",
+        "TomSweeneyRedHat": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-10-19T21:23:10Z"
+}

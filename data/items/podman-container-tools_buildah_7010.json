@@ -1,0 +1,31 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7010,
+    "title": "Add PutOptions.AttemptUnpackDockerCompatibility",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7010",
+    "author": "ajoshua2004",
+    "labels": [],
+    "created_at": "2026-07-29T18:58:44Z",
+    "updated_at": "2026-11-09T15:17:19Z",
+    "closed_at": "2026-11-09T15:17:19Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author",
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2026-11-09T14:51:03Z",
+    "reviews": {
+        "TomSweeneyRedHat": "COMMENTED",
+        "Honny1": "APPROVED",
+        "ajoshua2004": "COMMENTED",
+        "nalind": "APPROVED"
+    },
+    "requested_reviewers": [
+        "TomSweeneyRedHat"
+    ],
+    "merged_at": "2026-11-09T15:17:19Z"
+}

@@ -1,0 +1,28 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7062,
+    "title": "Implement the Docker-compatible --keep-git-dir in ADD",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7062",
+    "author": "simonbrauner",
+    "labels": [],
+    "created_at": "2026-08-25T11:13:39Z",
+    "updated_at": "2026-09-17T15:26:34Z",
+    "closed_at": "2026-09-17T15:26:34Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2026-08-27T16:54:35Z",
+    "reviews": {
+        "ajoshua2004": "COMMENTED",
+        "TomSweeneyRedHat": "COMMENTED",
+        "simonbrauner": "COMMENTED",
+        "nalind": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-09-17T15:26:33Z"
+}

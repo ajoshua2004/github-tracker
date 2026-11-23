@@ -1,0 +1,25 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7050,
+    "title": "Reject checksums for Git ADD sources",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7050",
+    "author": "arccat-114",
+    "labels": [],
+    "created_at": "2026-08-19T03:51:20Z",
+    "updated_at": "2026-09-17T13:40:10Z",
+    "closed_at": "2026-09-17T13:40:10Z",
+    "state": "closed",
+    "draft": false,
+    "roles": [
+        "commenter"
+    ],
+    "my_latest_review": null,
+    "my_last_response": "2026-09-17T13:36:28Z",
+    "reviews": {
+        "Honny1": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": null
+}

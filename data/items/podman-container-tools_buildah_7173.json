@@ -1,0 +1,29 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7173,
+    "title": "Update dependency golangci/golangci-lint to v2.15.0",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7173",
+    "author": "renovate[bot]",
+    "labels": [
+        "dependencies",
+        "No New Tests"
+    ],
+    "created_at": "2026-10-16T12:25:11Z",
+    "updated_at": "2026-10-19T13:28:47Z",
+    "closed_at": "2026-10-19T13:27:40Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-10-19T13:18:41Z",
+    "reviews": {
+        "ajoshua2004": "APPROVED",
+        "Luap99": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-10-19T13:27:40Z"
+}

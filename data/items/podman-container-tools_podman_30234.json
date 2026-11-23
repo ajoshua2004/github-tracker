@@ -1,0 +1,28 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 30234,
+    "title": "build: validate that --rm and --force-rm require --layers or --no-cache",
+    "url": "https://github.com/podman-container-tools/podman/pull/30234",
+    "author": "tosin2013",
+    "labels": [
+        "No New Tests"
+    ],
+    "created_at": "2026-11-11T15:13:42Z",
+    "updated_at": "2026-11-12T17:58:45Z",
+    "closed_at": null,
+    "state": "open",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2026-11-12T17:58:45Z",
+    "reviews": {
+        "Honny1": "COMMENTED",
+        "ajoshua2004": "COMMENTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": null
+}

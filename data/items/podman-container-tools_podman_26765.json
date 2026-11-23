@@ -1,0 +1,35 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 26765,
+    "title": "feat: added log_path support for configuration files",
+    "url": "https://github.com/podman-container-tools/podman/pull/26765",
+    "author": "ajoshua2004",
+    "labels": [
+        "lgtm",
+        "approved",
+        "kind/feature",
+        "bloat_approved",
+        "release-note",
+        "locked - please file new issue/PR"
+    ],
+    "created_at": "2025-08-06T20:00:28Z",
+    "updated_at": "2025-11-07T00:07:28Z",
+    "closed_at": "2025-08-08T13:06:12Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author",
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2025-08-07T20:07:36Z",
+    "reviews": {
+        "Luap99": "APPROVED",
+        "mheon": "COMMENTED",
+        "ajoshua2004": "COMMENTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2025-08-08T13:06:12Z"
+}

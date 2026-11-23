@@ -1,0 +1,32 @@
+{
+    "type": "pull_request",
+    "organization": "containers",
+    "repository": "common",
+    "number": 2491,
+    "title": "add log_path option to container configuration",
+    "url": "https://github.com/containers/common/pull/2491",
+    "author": "ajoshua2004",
+    "labels": [
+        "lgtm",
+        "approved"
+    ],
+    "created_at": "2025-08-01T20:11:37Z",
+    "updated_at": "2025-08-06T16:46:30Z",
+    "closed_at": "2025-08-06T16:46:30Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author",
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2025-08-06T13:39:51Z",
+    "reviews": {
+        "sourcery-ai[bot]": "APPROVED",
+        "mheon": "COMMENTED",
+        "Luap99": "APPROVED",
+        "ajoshua2004": "COMMENTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2025-08-06T16:46:30Z"
+}

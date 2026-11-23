@@ -1,0 +1,30 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 30296,
+    "title": "compat: add os_type to container stats for API v1.52",
+    "url": "https://github.com/podman-container-tools/podman/pull/30296",
+    "author": "ajoshua2004",
+    "labels": [
+        "kind/api-change"
+    ],
+    "created_at": "2026-11-17T20:02:39Z",
+    "updated_at": "2026-11-19T08:56:50Z",
+    "closed_at": "2026-11-19T08:56:49Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author",
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2026-11-18T15:07:42Z",
+    "reviews": {
+        "Honny1": "APPROVED",
+        "ajoshua2004": "COMMENTED",
+        "danishprakash": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-11-19T08:56:49Z"
+}

@@ -1,0 +1,30 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7073,
+    "title": "imagebuildah: add --no-cache-filter for per-stage cache control",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7073",
+    "author": "Akshitguptaa",
+    "labels": [],
+    "created_at": "2026-08-29T12:34:37Z",
+    "updated_at": "2026-10-30T18:25:09Z",
+    "closed_at": "2026-10-30T18:25:09Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-10-30T17:36:24Z",
+    "reviews": {
+        "ajoshua2004": "APPROVED",
+        "Akshitguptaa": "COMMENTED",
+        "simonbrauner": "COMMENTED",
+        "Honny1": "APPROVED"
+    },
+    "requested_reviewers": [
+        "simonbrauner"
+    ],
+    "merged_at": "2026-10-30T18:25:09Z"
+}

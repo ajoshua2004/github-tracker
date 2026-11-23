@@ -1,0 +1,28 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 30335,
+    "title": "compat: support platform in image inspect",
+    "url": "https://github.com/podman-container-tools/podman/pull/30335",
+    "author": "chala2001",
+    "labels": [
+        "kind/api-change"
+    ],
+    "created_at": "2026-11-20T14:13:44Z",
+    "updated_at": "2026-11-23T16:54:08Z",
+    "closed_at": null,
+    "state": "open",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-11-23T16:54:08Z",
+    "reviews": {
+        "ajoshua2004": "APPROVED",
+        "chala2001": "COMMENTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": null
+}

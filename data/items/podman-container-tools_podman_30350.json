@@ -1,0 +1,27 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 30350,
+    "title": "compat/api: limit secrets/create request body to 4MiB",
+    "url": "https://github.com/podman-container-tools/podman/pull/30350",
+    "author": "boaz2026",
+    "labels": [
+        "kind/api-change"
+    ],
+    "created_at": "2026-11-23T12:30:09Z",
+    "updated_at": "2026-11-23T16:43:27Z",
+    "closed_at": null,
+    "state": "open",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "CHANGES_REQUESTED",
+    "my_last_response": "2026-11-23T16:43:27Z",
+    "reviews": {
+        "ajoshua2004": "CHANGES_REQUESTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": null
+}

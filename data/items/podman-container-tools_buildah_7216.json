@@ -1,0 +1,23 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7216,
+    "title": "internal/rpc/control: add DiskUsage and Prune",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7216",
+    "author": "ajoshua2004",
+    "labels": [],
+    "created_at": "2026-11-05T18:26:54Z",
+    "updated_at": "2026-11-17T16:17:52Z",
+    "closed_at": null,
+    "state": "open",
+    "draft": true,
+    "roles": [
+        "author"
+    ],
+    "my_latest_review": null,
+    "my_last_response": "2026-11-17T16:17:52Z",
+    "reviews": {},
+    "requested_reviewers": [],
+    "merged_at": null
+}

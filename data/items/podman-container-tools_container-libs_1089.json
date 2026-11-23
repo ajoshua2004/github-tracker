@@ -1,0 +1,30 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "container-libs",
+    "number": 1089,
+    "title": "Add support for crun hook stdout/stderr annotations in precreate hooks",
+    "url": "https://github.com/podman-container-tools/container-libs/pull/1089",
+    "author": "ajoshua2004",
+    "labels": [
+        "common"
+    ],
+    "created_at": "2026-08-17T16:54:38Z",
+    "updated_at": "2026-09-02T18:36:47Z",
+    "closed_at": "2026-09-02T18:36:47Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author",
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2026-09-02T18:04:22Z",
+    "reviews": {
+        "Luap99": "APPROVED",
+        "ajoshua2004": "COMMENTED",
+        "mtrmac": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-09-02T18:36:47Z"
+}

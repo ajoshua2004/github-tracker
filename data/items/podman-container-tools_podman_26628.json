@@ -1,0 +1,38 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 26628,
+    "title": "Feat: send additional build contexts as tar files for remote builds",
+    "url": "https://github.com/podman-container-tools/podman/pull/26628",
+    "author": "ajoshua2004",
+    "labels": [
+        "lgtm",
+        "approved",
+        "machine",
+        "release-note",
+        "kind/api-change",
+        "locked - please file new issue/PR"
+    ],
+    "created_at": "2025-07-14T02:47:01Z",
+    "updated_at": "2025-10-23T00:07:14Z",
+    "closed_at": "2025-07-24T11:04:32Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author",
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2025-07-22T16:34:56Z",
+    "reviews": {
+        "Luap99": "APPROVED",
+        "flouthoc": "COMMENTED",
+        "nalind": "CHANGES_REQUESTED",
+        "Honny1": "COMMENTED",
+        "ajoshua2004": "COMMENTED",
+        "mheon": "COMMENTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2025-07-24T11:04:32Z"
+}

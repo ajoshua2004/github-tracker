@@ -1,0 +1,28 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 26757,
+    "title": "feat: Add log_path configuration support",
+    "url": "https://github.com/podman-container-tools/podman/pull/26757",
+    "author": "ajoshua2004",
+    "labels": [
+        "do-not-merge/hold",
+        "kind/feature",
+        "release-note",
+        "locked - please file new issue/PR"
+    ],
+    "created_at": "2025-08-05T23:27:54Z",
+    "updated_at": "2025-11-05T00:07:25Z",
+    "closed_at": "2025-08-06T20:00:32Z",
+    "state": "closed",
+    "draft": false,
+    "roles": [
+        "author"
+    ],
+    "my_latest_review": null,
+    "my_last_response": null,
+    "reviews": {},
+    "requested_reviewers": [],
+    "merged_at": null
+}

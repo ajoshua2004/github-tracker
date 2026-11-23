@@ -1,0 +1,25 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7096,
+    "title": "Revert part of #7077, use testing.Context() in conformance tests",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7096",
+    "author": "nalind",
+    "labels": [],
+    "created_at": "2026-09-08T21:24:53Z",
+    "updated_at": "2026-09-10T12:58:53Z",
+    "closed_at": "2026-09-10T09:54:10Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "commenter"
+    ],
+    "my_latest_review": null,
+    "my_last_response": "2026-09-09T13:40:14Z",
+    "reviews": {
+        "Luap99": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-09-10T09:54:10Z"
+}

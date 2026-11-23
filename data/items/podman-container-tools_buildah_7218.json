@@ -1,0 +1,29 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7218,
+    "title": "fix(deps): update module github.com/spf13/pflag to v1.1.0",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7218",
+    "author": "renovate[bot]",
+    "labels": [
+        "dependencies"
+    ],
+    "created_at": "2026-11-06T08:44:37Z",
+    "updated_at": "2026-11-06T21:25:06Z",
+    "closed_at": "2026-11-06T21:24:16Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-11-06T20:41:26Z",
+    "reviews": {
+        "mtrmac": "APPROVED",
+        "Honny1": "COMMENTED",
+        "ajoshua2004": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-11-06T21:24:16Z"
+}

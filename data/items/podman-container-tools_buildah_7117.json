@@ -1,0 +1,23 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7117,
+    "title": "Update CONTRIBUTING.md",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7117",
+    "author": "ajoshua2004",
+    "labels": [],
+    "created_at": "2026-09-16T15:30:04Z",
+    "updated_at": "2026-09-16T15:33:50Z",
+    "closed_at": "2026-09-16T15:33:50Z",
+    "state": "closed",
+    "draft": false,
+    "roles": [
+        "author"
+    ],
+    "my_latest_review": null,
+    "my_last_response": null,
+    "reviews": {},
+    "requested_reviewers": [],
+    "merged_at": null
+}

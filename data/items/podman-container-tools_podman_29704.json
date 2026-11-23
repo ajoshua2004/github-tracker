@@ -1,0 +1,26 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 29704,
+    "title": "Prevent unwanted registry prompts in multi-stage builds",
+    "url": "https://github.com/podman-container-tools/podman/pull/29704",
+    "author": "hihry",
+    "labels": [],
+    "created_at": "2026-09-02T16:54:53Z",
+    "updated_at": "2026-09-02T22:13:04Z",
+    "closed_at": "2026-09-02T22:09:31Z",
+    "state": "closed",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "CHANGES_REQUESTED",
+    "my_last_response": "2026-09-02T20:37:21Z",
+    "reviews": {
+        "ajoshua2004": "CHANGES_REQUESTED",
+        "hihry": "COMMENTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": null
+}

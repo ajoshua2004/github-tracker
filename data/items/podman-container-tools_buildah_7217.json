@@ -1,0 +1,28 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7217,
+    "title": "Refactor: moving logic from internal to pkg/output",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7217",
+    "author": "hihry",
+    "labels": [],
+    "created_at": "2026-11-06T07:35:25Z",
+    "updated_at": "2026-11-23T18:10:24Z",
+    "closed_at": null,
+    "state": "open",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "CHANGES_REQUESTED",
+    "my_last_response": "2026-11-23T18:10:24Z",
+    "reviews": {
+        "ajoshua2004": "CHANGES_REQUESTED",
+        "TomSweeneyRedHat": "COMMENTED"
+    },
+    "requested_reviewers": [
+        "TomSweeneyRedHat"
+    ],
+    "merged_at": null
+}

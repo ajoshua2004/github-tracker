@@ -1,0 +1,26 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7132,
+    "title": "[release-1.43] Fix the typo in bud test",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7132",
+    "author": "dashea",
+    "labels": [],
+    "created_at": "2026-09-25T14:20:18Z",
+    "updated_at": "2026-09-28T14:31:44Z",
+    "closed_at": "2026-09-28T14:31:44Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-09-25T15:37:00Z",
+    "reviews": {
+        "ajoshua2004": "APPROVED",
+        "Luap99": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-09-28T14:31:44Z"
+}

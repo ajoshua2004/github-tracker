@@ -1,0 +1,32 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7143,
+    "title": "add: added ADD --unpack support",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7143",
+    "author": "ajoshua2004",
+    "labels": [],
+    "created_at": "2026-10-06T20:45:20Z",
+    "updated_at": "2026-10-23T18:08:03Z",
+    "closed_at": "2026-10-23T18:08:03Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author",
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2026-10-15T15:38:11Z",
+    "reviews": {
+        "Honny1": "APPROVED",
+        "ajoshua2004": "COMMENTED",
+        "TomSweeneyRedHat": "COMMENTED",
+        "tom--pollard": "COMMENTED"
+    },
+    "requested_reviewers": [
+        "tom--pollard",
+        "TomSweeneyRedHat"
+    ],
+    "merged_at": "2026-10-23T18:08:03Z"
+}

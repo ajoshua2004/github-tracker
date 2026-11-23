@@ -1,0 +1,28 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7121,
+    "title": "add: git sources use cache",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7121",
+    "author": "ajoshua2004",
+    "labels": [],
+    "created_at": "2026-09-17T17:52:50Z",
+    "updated_at": "2026-09-25T00:18:48Z",
+    "closed_at": "2026-09-25T00:18:48Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author",
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2026-09-21T15:48:42Z",
+    "reviews": {
+        "simonbrauner": "COMMENTED",
+        "ajoshua2004": "COMMENTED",
+        "Honny1": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-09-25T00:18:48Z"
+}

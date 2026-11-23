@@ -1,0 +1,26 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7199,
+    "title": "rpm: enable sequoia in RHEL 10+",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7199",
+    "author": "yselkowitz",
+    "labels": [],
+    "created_at": "2026-10-27T20:21:23Z",
+    "updated_at": "2026-10-28T23:45:14Z",
+    "closed_at": "2026-10-28T23:45:14Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-10-28T17:01:17Z",
+    "reviews": {
+        "ajoshua2004": "APPROVED",
+        "TomSweeneyRedHat": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-10-28T23:45:14Z"
+}

@@ -1,0 +1,29 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7001,
+    "title": "Copier: add Symlink() for creating symlinks with inline target",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7001",
+    "author": "ajoshua2004",
+    "labels": [],
+    "created_at": "2026-07-27T15:10:37Z",
+    "updated_at": "2026-08-31T19:22:44Z",
+    "closed_at": "2026-07-28T18:35:15Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author",
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2026-07-28T12:34:51Z",
+    "reviews": {
+        "simonbrauner": "COMMENTED",
+        "ajoshua2004": "COMMENTED",
+        "nalind": "APPROVED",
+        "TomSweeneyRedHat": "COMMENTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-07-28T18:35:15Z"
+}

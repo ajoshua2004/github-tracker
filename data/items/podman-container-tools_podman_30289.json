@@ -1,0 +1,29 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 30289,
+    "title": "api/compat: fix status code of secrets/create to 201",
+    "url": "https://github.com/podman-container-tools/podman/pull/30289",
+    "author": "boaz2026",
+    "labels": [
+        "kind/api-change"
+    ],
+    "created_at": "2026-11-17T09:35:31Z",
+    "updated_at": "2026-11-19T16:06:11Z",
+    "closed_at": "2026-11-18T08:57:04Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-11-17T18:05:58Z",
+    "reviews": {
+        "mheon": "APPROVED",
+        "ajoshua2004": "APPROVED",
+        "Honny1": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-11-18T08:57:04Z"
+}

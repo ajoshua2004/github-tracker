@@ -1,0 +1,19 @@
+{
+    "type": "issue",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 30173,
+    "title": "Compat API v1.48: implement POST /build/prune",
+    "url": "https://github.com/podman-container-tools/podman/issues/30173",
+    "author": "ajoshua2004",
+    "labels": [
+        "kind/feature"
+    ],
+    "created_at": "2026-11-10T13:41:55Z",
+    "updated_at": "2026-11-10T13:42:19Z",
+    "closed_at": null,
+    "state": "open",
+    "state_reason": null,
+    "my_last_response": "2026-11-10T13:42:05Z",
+    "comments": 1
+}

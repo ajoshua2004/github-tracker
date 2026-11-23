@@ -1,0 +1,27 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7106,
+    "title": "docs: fix grammar, articles, and SEE ALSO reference in man pages",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7106",
+    "author": "SatyamPandey-07",
+    "labels": [],
+    "created_at": "2026-09-11T14:47:47Z",
+    "updated_at": "2026-09-11T23:28:17Z",
+    "closed_at": "2026-09-11T23:28:17Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-09-11T15:29:29Z",
+    "reviews": {
+        "ajoshua2004": "APPROVED",
+        "nalind": "APPROVED",
+        "TomSweeneyRedHat": "COMMENTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-09-11T23:28:17Z"
+}

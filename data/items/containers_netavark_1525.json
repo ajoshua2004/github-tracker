@@ -1,0 +1,27 @@
+{
+    "type": "pull_request",
+    "organization": "containers",
+    "repository": "netavark",
+    "number": 1525,
+    "title": "netlink: drain socket on error during multi-part reply",
+    "url": "https://github.com/containers/netavark/pull/1525",
+    "author": "ajoshua2004",
+    "labels": [],
+    "created_at": "2026-10-13T18:49:12Z",
+    "updated_at": "2026-10-29T19:47:34Z",
+    "closed_at": "2026-10-29T19:47:34Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author",
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2026-10-19T17:30:43Z",
+    "reviews": {
+        "Luap99": "APPROVED",
+        "ajoshua2004": "COMMENTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-10-29T19:47:34Z"
+}

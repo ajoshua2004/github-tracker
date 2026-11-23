@@ -1,0 +1,25 @@
+{
+    "type": "pull_request",
+    "organization": "containers",
+    "repository": "netavark",
+    "number": 1492,
+    "title": "Added gateway check to prevent infinite recursion in aardvark",
+    "url": "https://github.com/containers/netavark/pull/1492",
+    "author": "ajoshua2004",
+    "labels": [],
+    "created_at": "2026-08-05T17:37:31Z",
+    "updated_at": "2026-08-06T10:01:44Z",
+    "closed_at": "2026-08-06T10:01:44Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author"
+    ],
+    "my_latest_review": null,
+    "my_last_response": null,
+    "reviews": {
+        "Luap99": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-08-06T10:01:44Z"
+}

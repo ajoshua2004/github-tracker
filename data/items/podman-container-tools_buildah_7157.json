@@ -1,0 +1,28 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7157,
+    "title": "add add/copy --required-path",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7157",
+    "author": "ajoshua2004",
+    "labels": [],
+    "created_at": "2026-10-09T20:11:07Z",
+    "updated_at": "2026-10-20T15:29:48Z",
+    "closed_at": "2026-10-20T15:29:48Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author",
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2026-10-14T19:51:42Z",
+    "reviews": {
+        "TomSweeneyRedHat": "APPROVED",
+        "Honny1": "APPROVED",
+        "ajoshua2004": "COMMENTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-10-20T15:29:48Z"
+}

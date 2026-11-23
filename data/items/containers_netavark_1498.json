@@ -1,0 +1,28 @@
+{
+    "type": "pull_request",
+    "organization": "containers",
+    "repository": "netavark",
+    "number": 1498,
+    "title": "Don't leak sysctl.d drop-ins for internal networks",
+    "url": "https://github.com/containers/netavark/pull/1498",
+    "author": "hcebke",
+    "labels": [],
+    "created_at": "2026-08-09T20:38:13Z",
+    "updated_at": "2026-10-07T18:30:03Z",
+    "closed_at": null,
+    "state": "open",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "COMMENTED",
+    "my_last_response": "2026-10-07T18:30:03Z",
+    "reviews": {
+        "Luap99": "CHANGES_REQUESTED",
+        "hcebke": "COMMENTED",
+        "mheon": "COMMENTED",
+        "ajoshua2004": "COMMENTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": null
+}

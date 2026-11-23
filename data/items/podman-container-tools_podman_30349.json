@@ -1,0 +1,25 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 30349,
+    "title": "Set NoInfra when cloning pods without an infra container",
+    "url": "https://github.com/podman-container-tools/podman/pull/30349",
+    "author": "Honny1",
+    "labels": [],
+    "created_at": "2026-11-23T12:09:34Z",
+    "updated_at": "2026-11-23T16:49:42Z",
+    "closed_at": null,
+    "state": "open",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-11-23T16:49:42Z",
+    "reviews": {
+        "ajoshua2004": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": null
+}

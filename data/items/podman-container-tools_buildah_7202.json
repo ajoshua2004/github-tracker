@@ -1,0 +1,28 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7202,
+    "title": "fix(sftp): fix startup cleanup and fusermount3 fallback in mount/umount-sshfs",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7202",
+    "author": "ryuichi-ichinose",
+    "labels": [
+        "No New Tests"
+    ],
+    "created_at": "2026-10-29T13:02:27Z",
+    "updated_at": "2026-11-05T12:32:48Z",
+    "closed_at": "2026-11-05T12:32:48Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-11-03T13:06:57Z",
+    "reviews": {
+        "ajoshua2004": "APPROVED",
+        "Honny1": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-11-05T12:32:48Z"
+}

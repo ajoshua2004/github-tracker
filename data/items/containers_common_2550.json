@@ -1,0 +1,23 @@
+{
+    "type": "pull_request",
+    "organization": "containers",
+    "repository": "common",
+    "number": 2550,
+    "title": "Add support for Crun hook stdout/stderr annotations in precreate hooks",
+    "url": "https://github.com/containers/common/pull/2550",
+    "author": "ajoshua2004",
+    "labels": [],
+    "created_at": "2026-08-17T16:31:49Z",
+    "updated_at": "2026-08-17T16:32:25Z",
+    "closed_at": "2026-08-17T16:32:25Z",
+    "state": "closed",
+    "draft": false,
+    "roles": [
+        "author"
+    ],
+    "my_latest_review": null,
+    "my_last_response": null,
+    "reviews": {},
+    "requested_reviewers": [],
+    "merged_at": null
+}

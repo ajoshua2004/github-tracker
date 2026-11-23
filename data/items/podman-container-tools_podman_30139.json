@@ -1,0 +1,20 @@
+{
+    "type": "issue",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 30139,
+    "title": "Support `volume-driver=` options in `mount type=volume`",
+    "url": "https://github.com/podman-container-tools/podman/issues/30139",
+    "author": "ajoshua2004",
+    "labels": [
+        "kind/feature",
+        "triaged"
+    ],
+    "created_at": "2026-11-06T18:07:56Z",
+    "updated_at": "2026-11-19T15:13:18Z",
+    "closed_at": "2026-11-19T15:13:18Z",
+    "state": "closed",
+    "state_reason": "completed",
+    "my_last_response": null,
+    "comments": 1
+}

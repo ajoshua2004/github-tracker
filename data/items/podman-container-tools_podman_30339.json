@@ -1,0 +1,28 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 30339,
+    "title": "api/compat: preserve author in image inspect responses",
+    "url": "https://github.com/podman-container-tools/podman/pull/30339",
+    "author": "Elvand-Lie",
+    "labels": [
+        "kind/api-change"
+    ],
+    "created_at": "2026-11-21T19:11:08Z",
+    "updated_at": "2026-11-23T18:16:29Z",
+    "closed_at": null,
+    "state": "open",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-11-23T18:16:29Z",
+    "reviews": {
+        "Honny1": "APPROVED",
+        "ajoshua2004": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": null
+}

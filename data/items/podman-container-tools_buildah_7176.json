@@ -1,0 +1,28 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7176,
+    "title": "fix: failed url context leak temporary directory",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7176",
+    "author": "boaz2026",
+    "labels": [],
+    "created_at": "2026-10-19T09:30:46Z",
+    "updated_at": "2026-10-26T12:53:35Z",
+    "closed_at": "2026-10-23T15:02:11Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-10-19T13:27:51Z",
+    "reviews": {
+        "ajoshua2004": "APPROVED",
+        "simonbrauner": "COMMENTED",
+        "boaz2026": "COMMENTED",
+        "Honny1": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-10-23T15:02:11Z"
+}

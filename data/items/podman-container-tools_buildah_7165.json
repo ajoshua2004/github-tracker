@@ -1,0 +1,19 @@
+{
+    "type": "issue",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7165,
+    "title": "buildah copy --parents leaks host ancestor directories into the copied image",
+    "url": "https://github.com/podman-container-tools/buildah/issues/7165",
+    "author": "ajoshua2004",
+    "labels": [
+        "kind/bug"
+    ],
+    "created_at": "2026-10-14T19:48:41Z",
+    "updated_at": "2026-10-19T21:23:12Z",
+    "closed_at": "2026-10-19T21:23:12Z",
+    "state": "closed",
+    "state_reason": "completed",
+    "my_last_response": "2026-10-14T19:49:56Z",
+    "comments": 1
+}

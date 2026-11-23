@@ -1,0 +1,25 @@
+{
+    "type": "pull_request",
+    "organization": "containers",
+    "repository": "netavark",
+    "number": 1532,
+    "title": "packit: add musl build check",
+    "url": "https://github.com/containers/netavark/pull/1532",
+    "author": "ajoshua2004",
+    "labels": [],
+    "created_at": "2026-10-19T19:39:54Z",
+    "updated_at": "2026-10-29T17:55:04Z",
+    "closed_at": "2026-10-29T17:55:04Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "author"
+    ],
+    "my_latest_review": null,
+    "my_last_response": null,
+    "reviews": {
+        "Luap99": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-10-29T17:55:04Z"
+}

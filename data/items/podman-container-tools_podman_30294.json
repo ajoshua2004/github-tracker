@@ -1,0 +1,19 @@
+{
+    "type": "issue",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 30294,
+    "title": "GET /containers/{id}/stats os_type",
+    "url": "https://github.com/podman-container-tools/podman/issues/30294",
+    "author": "ajoshua2004",
+    "labels": [
+        "kind/feature"
+    ],
+    "created_at": "2026-11-17T18:29:13Z",
+    "updated_at": "2026-11-19T08:56:51Z",
+    "closed_at": "2026-11-19T08:56:51Z",
+    "state": "closed",
+    "state_reason": "completed",
+    "my_last_response": "2026-11-17T18:29:34Z",
+    "comments": 1
+}

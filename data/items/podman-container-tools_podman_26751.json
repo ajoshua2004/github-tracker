@@ -1,0 +1,31 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 26751,
+    "title": "pkg/machine/e2e: remove build context skip",
+    "url": "https://github.com/podman-container-tools/podman/pull/26751",
+    "author": "Luap99",
+    "labels": [
+        "lgtm",
+        "approved",
+        "machine",
+        "release-note-none",
+        "locked - please file new issue/PR"
+    ],
+    "created_at": "2025-08-05T10:54:34Z",
+    "updated_at": "2025-11-05T00:07:34Z",
+    "closed_at": "2025-08-06T08:13:04Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "commenter"
+    ],
+    "my_latest_review": null,
+    "my_last_response": "2025-08-05T12:55:49Z",
+    "reviews": {
+        "giuseppe": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2025-08-06T08:13:04Z"
+}

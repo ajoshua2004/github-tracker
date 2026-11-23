@@ -1,0 +1,29 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "podman",
+    "number": 30241,
+    "title": "Compat API v1.50: DELETE /images platforms support, Fixes: #30163",
+    "url": "https://github.com/podman-container-tools/podman/pull/30241",
+    "author": "jain-aadi",
+    "labels": [
+        "kind/api-change"
+    ],
+    "created_at": "2026-11-12T11:46:25Z",
+    "updated_at": "2026-11-18T17:19:38Z",
+    "closed_at": null,
+    "state": "open",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "CHANGES_REQUESTED",
+    "my_last_response": "2026-11-12T17:34:47Z",
+    "reviews": {
+        "ajoshua2004": "CHANGES_REQUESTED",
+        "Luap99": "COMMENTED",
+        "jain-aadi": "COMMENTED"
+    },
+    "requested_reviewers": [],
+    "merged_at": null
+}

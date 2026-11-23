@@ -1,0 +1,28 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7225,
+    "title": "fix: correct handling of git urls with unusual branch or subdir names",
+    "url": "https://github.com/podman-container-tools/buildah/pull/7225",
+    "author": "brandon1024",
+    "labels": [
+        "No New Tests"
+    ],
+    "created_at": "2026-11-10T08:48:11Z",
+    "updated_at": "2026-11-12T10:46:42Z",
+    "closed_at": "2026-11-12T10:26:49Z",
+    "state": "merged",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-11-11T15:06:37Z",
+    "reviews": {
+        "ajoshua2004": "APPROVED",
+        "Honny1": "APPROVED"
+    },
+    "requested_reviewers": [],
+    "merged_at": "2026-11-12T10:26:49Z"
+}
