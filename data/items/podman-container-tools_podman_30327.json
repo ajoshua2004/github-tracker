@@ -10,9 +10,9 @@
         "kind/api-change"
     ],
     "created_at": "2026-11-19T19:27:17Z",
-    "updated_at": "2026-11-20T17:43:50Z",
-    "closed_at": null,
-    "state": "open",
+    "updated_at": "2026-11-24T13:40:29Z",
+    "closed_at": "2026-11-24T13:40:29Z",
+    "state": "merged",
     "draft": false,
     "roles": [
         "author"
@@ -20,8 +20,9 @@
     "my_latest_review": null,
     "my_last_response": null,
     "reviews": {
-        "Honny1": "COMMENTED"
+        "Honny1": "APPROVED",
+        "mheon": "COMMENTED"
     },
     "requested_reviewers": [],
-    "merged_at": null
+    "merged_at": "2026-11-24T13:40:29Z"
 }

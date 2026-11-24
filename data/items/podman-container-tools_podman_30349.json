@@ -8,9 +8,9 @@
     "author": "Honny1",
     "labels": [],
     "created_at": "2026-11-23T12:09:34Z",
-    "updated_at": "2026-11-23T16:49:42Z",
-    "closed_at": null,
-    "state": "open",
+    "updated_at": "2026-11-24T12:29:21Z",
+    "closed_at": "2026-11-24T12:29:21Z",
+    "state": "merged",
     "draft": false,
     "roles": [
         "reviewer"
@@ -18,8 +18,9 @@
     "my_latest_review": "APPROVED",
     "my_last_response": "2026-11-23T16:49:42Z",
     "reviews": {
-        "ajoshua2004": "APPROVED"
+        "ajoshua2004": "APPROVED",
+        "Luap99": "APPROVED"
     },
     "requested_reviewers": [],
-    "merged_at": null
+    "merged_at": "2026-11-24T12:29:21Z"
 }

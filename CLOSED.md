@@ -1,16 +1,17 @@
 # GitHub tracker for ajoshua2004: closed
-![Merged](https://img.shields.io/badge/Merged-32-purple) ![Reviewed](https://img.shields.io/badge/Reviewed-47-orange) ![Closed issues](https://img.shields.io/badge/Closed_issues-5-blue)
+![Merged](https://img.shields.io/badge/Merged-33-purple) ![Reviewed](https://img.shields.io/badge/Reviewed-49-orange) ![Closed issues](https://img.shields.io/badge/Closed_issues-6-blue)
 
 <br/>
 
-PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated daily by GitHub Actions. Last updated **Nov 23, 2026 2:39 PM** (Eastern).
+PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated daily by GitHub Actions. Last updated **Nov 24, 2026 9:11 AM** (Eastern).
 
 [← Open](README.md) · **Closed**
 
-## My PRs (35)
+## My PRs (36)
 
 | PR | Repo | Status | Last response |
 |---|---|---|---|
+| [compat: backfill empty PortBindings and warn for API >= 1.52](https://github.com/podman-container-tools/podman/pull/30327) | `podman#30327` | Merged | — |
 | [libimage: add space limits to RemoveImagesOptions](https://github.com/podman-container-tools/container-libs/pull/1360) | `container-libs#1360` | Merged | Nov 17, 2026 11:29 AM |
 | [compat: add os_type to container stats for API v1.52](https://github.com/podman-container-tools/podman/pull/30296) | `podman#30296` | Merged | Nov 18, 2026 10:07 AM |
 | [Add PutOptions.AttemptUnpackDockerCompatibility](https://github.com/podman-container-tools/buildah/pull/7010) | `buildah#7010` | Merged | Nov 9, 2026 9:51 AM |
@@ -47,10 +48,12 @@ PRs and issues I've opened or reviewed across `podman-container-tools`, `contain
 | [feat: ADD/COPY --link support for buildah](https://github.com/podman-container-tools/buildah/pull/6240) | `buildah#6240` | Merged | Jul 9, 2025 4:08 PM |
 | [podman buildx inspect](https://github.com/podman-container-tools/podman/pull/26232) | `podman#26232` | Merged | May 30, 2025 3:20 PM |
 
-## Reviewed (47)
+## Reviewed (49)
 
 | PR | Repo | Status | Last response |
 |---|---|---|---|
+| [Set NoInfra when cloning pods without an infra container](https://github.com/podman-container-tools/podman/pull/30349) by Honny1 | `podman#30349` | Merged | Nov 23, 2026 11:49 AM |
+| [api/compat: preserve author in image inspect responses](https://github.com/podman-container-tools/podman/pull/30339) by Elvand-Lie | `podman#30339` | Merged | Nov 23, 2026 1:16 PM |
 | [rpm: Drop libtrust_openssl build tag](https://github.com/podman-container-tools/buildah/pull/7242) by yselkowitz | `buildah#7242` | Merged | Nov 19, 2026 12:57 PM |
 | [feat: add FirewallBackend field to compat GET /info](https://github.com/podman-container-tools/podman/pull/30171) by Rajkaran-122 | `podman#30171` | Merged | Nov 10, 2026 11:17 AM |
 | [api/compat: fix status code of secrets/create to 201](https://github.com/podman-container-tools/podman/pull/30289) by boaz2026 | `podman#30289` | Merged | Nov 17, 2026 1:05 PM |
@@ -99,10 +102,11 @@ PRs and issues I've opened or reviewed across `podman-container-tools`, `contain
 | [Prevent unwanted registry prompts in multi-stage builds](https://github.com/podman-container-tools/podman/pull/29704) by hihry | `podman#29704` | Closed | Sep 2, 2026 4:37 PM |
 | [pkg/machine/e2e: remove build context skip](https://github.com/podman-container-tools/podman/pull/26751) by Luap99 | `podman#26751` | Merged | Aug 5, 2025 8:55 AM |
 
-## My issues (5)
+## My issues (6)
 
 | Issue | Repo | Status | Last response |
 |---|---|---|---|
+| [Empty PortBindings create warning (Docker deprecates auto-backfill of empty HostIP/HostPort)](https://github.com/podman-container-tools/podman/issues/30326) | `podman#30326` | Completed | Nov 19, 2026 1:46 PM |
 | [Support `volume-driver=` options in `mount type=volume`](https://github.com/podman-container-tools/podman/issues/30139) | `podman#30139` | Completed | — |
 | [GET /containers/{id}/stats os_type](https://github.com/podman-container-tools/podman/issues/30294) | `podman#30294` | Completed | Nov 17, 2026 1:29 PM |
 | [Op_File.Actions.FileAction_Copy.RequiredPaths](https://github.com/podman-container-tools/buildah/issues/6986) | `buildah#6986` | Completed | Jul 22, 2026 11:22 AM |
