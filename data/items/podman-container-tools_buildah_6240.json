@@ -23,6 +23,10 @@
     ],
     "my_latest_review": "COMMENTED",
     "my_last_response": "2025-07-09T20:08:04Z",
+    "last_response": {
+        "at": "2025-07-11T15:22:30Z",
+        "by": "rhatdan"
+    },
     "reviews": {
         "nalind": "CHANGES_REQUESTED",
         "ajoshua2004": "COMMENTED",

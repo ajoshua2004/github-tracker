@@ -19,6 +19,10 @@
     ],
     "my_latest_review": "APPROVED",
     "my_last_response": "2026-11-06T20:41:26Z",
+    "last_response": {
+        "at": "2026-11-06T20:41:26Z",
+        "by": "ajoshua2004"
+    },
     "reviews": {
         "mtrmac": "APPROVED",
         "Honny1": "COMMENTED",

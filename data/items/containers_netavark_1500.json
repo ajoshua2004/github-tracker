@@ -18,6 +18,10 @@
     ],
     "my_latest_review": "COMMENTED",
     "my_last_response": "2026-08-14T14:25:44Z",
+    "last_response": {
+        "at": "2026-08-18T16:41:45Z",
+        "by": "Luap99"
+    },
     "reviews": {
         "Luap99": "APPROVED",
         "mheon": "APPROVED",

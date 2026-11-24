@@ -19,6 +19,10 @@
     ],
     "my_latest_review": null,
     "my_last_response": "2026-11-17T16:29:03Z",
+    "last_response": {
+        "at": "2026-11-22T15:31:13Z",
+        "by": "mheon"
+    },
     "reviews": {
         "Honny1": "COMMENTED"
     },

@@ -19,6 +19,10 @@
     ],
     "my_latest_review": "APPROVED",
     "my_last_response": "2026-11-02T14:11:21Z",
+    "last_response": {
+        "at": "2026-11-02T16:28:58Z",
+        "by": "nalind"
+    },
     "reviews": {
         "ajoshua2004": "APPROVED",
         "nalind": "APPROVED"

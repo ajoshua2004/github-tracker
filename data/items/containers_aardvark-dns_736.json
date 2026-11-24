@@ -18,6 +18,10 @@
     ],
     "my_latest_review": "COMMENTED",
     "my_last_response": "2026-09-01T17:50:10Z",
+    "last_response": {
+        "at": "2026-09-14T10:01:56Z",
+        "by": "Luap99"
+    },
     "reviews": {
         "lsm5": "APPROVED",
         "Luap99": "APPROVED",

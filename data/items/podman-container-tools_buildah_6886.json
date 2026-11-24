@@ -17,6 +17,10 @@
     ],
     "my_latest_review": "APPROVED",
     "my_last_response": "2026-10-22T16:51:02Z",
+    "last_response": {
+        "at": "2026-10-27T10:45:38Z",
+        "by": "Honny1"
+    },
     "reviews": {
         "nalind": "APPROVED",
         "mtrmac": "COMMENTED",

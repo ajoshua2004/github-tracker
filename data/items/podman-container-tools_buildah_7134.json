@@ -1,0 +1,23 @@
+{
+    "type": "issue",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 7134,
+    "title": "COPY --link to a relative destination path breaks layer caching",
+    "url": "https://github.com/podman-container-tools/buildah/issues/7134",
+    "author": "ptab",
+    "labels": [
+        "kind/bug"
+    ],
+    "created_at": "2026-09-28T17:21:58Z",
+    "updated_at": "2026-10-08T00:42:44Z",
+    "closed_at": "2026-10-08T00:42:44Z",
+    "state": "closed",
+    "state_reason": "completed",
+    "my_last_response": "2026-09-28T17:36:42Z",
+    "last_response": {
+        "at": "2026-09-28T17:36:42Z",
+        "by": "ajoshua2004"
+    },
+    "comments": 1
+}

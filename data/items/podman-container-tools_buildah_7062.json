@@ -17,6 +17,10 @@
     ],
     "my_latest_review": "COMMENTED",
     "my_last_response": "2026-08-27T16:54:35Z",
+    "last_response": {
+        "at": "2026-09-16T13:33:09Z",
+        "by": "simonbrauner"
+    },
     "reviews": {
         "ajoshua2004": "COMMENTED",
         "TomSweeneyRedHat": "COMMENTED",

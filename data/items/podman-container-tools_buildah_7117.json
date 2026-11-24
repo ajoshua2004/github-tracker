@@ -17,6 +17,7 @@
     ],
     "my_latest_review": null,
     "my_last_response": null,
+    "last_response": null,
     "reviews": {},
     "requested_reviewers": [],
     "merged_at": null

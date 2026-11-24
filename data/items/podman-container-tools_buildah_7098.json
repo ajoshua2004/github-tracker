@@ -17,6 +17,10 @@
     ],
     "my_latest_review": "CHANGES_REQUESTED",
     "my_last_response": "2026-10-21T18:12:03Z",
+    "last_response": {
+        "at": "2026-10-21T18:12:03Z",
+        "by": "ajoshua2004"
+    },
     "reviews": {
         "ajoshua2004": "CHANGES_REQUESTED"
     },

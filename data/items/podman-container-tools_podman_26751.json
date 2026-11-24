@@ -23,6 +23,10 @@
     ],
     "my_latest_review": null,
     "my_last_response": "2025-08-05T12:55:49Z",
+    "last_response": {
+        "at": "2025-08-06T08:07:57Z",
+        "by": "giuseppe"
+    },
     "reviews": {
         "giuseppe": "APPROVED"
     },

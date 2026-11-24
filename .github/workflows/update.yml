@@ -1,7 +1,7 @@
 name: Update PR tracker
 on:
   schedule:
-    - cron: "13 10 * * *"   # daily, ~5am Boston time
+    - cron: "17 12-23 * * 1-5"   # Mon–Fri hourly; covers 8am–6pm Eastern in both EST and EDT
   workflow_dispatch:
 
 permissions:

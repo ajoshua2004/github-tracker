@@ -17,6 +17,10 @@
     ],
     "my_latest_review": "APPROVED",
     "my_last_response": "2026-10-21T18:02:05Z",
+    "last_response": {
+        "at": "2026-10-22T09:09:14Z",
+        "by": "Honny1"
+    },
     "reviews": {
         "ajoshua2004": "APPROVED",
         "TomSweeneyRedHat": "COMMENTED",

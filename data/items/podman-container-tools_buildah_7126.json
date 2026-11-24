@@ -17,6 +17,10 @@
     ],
     "my_latest_review": "APPROVED",
     "my_last_response": "2026-09-21T19:32:52Z",
+    "last_response": {
+        "at": "2026-09-22T15:34:56Z",
+        "by": "Honny1"
+    },
     "reviews": {
         "ajoshua2004": "APPROVED",
         "Honny1": "APPROVED"

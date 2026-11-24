@@ -18,6 +18,10 @@
     ],
     "my_latest_review": "COMMENTED",
     "my_last_response": "2026-11-12T18:32:27Z",
+    "last_response": {
+        "at": "2026-11-12T20:25:46Z",
+        "by": "mtrmac"
+    },
     "reviews": {
         "mtrmac": "COMMENTED",
         "Honny1": "COMMENTED",

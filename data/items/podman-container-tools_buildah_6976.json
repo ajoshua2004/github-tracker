@@ -18,6 +18,10 @@
     ],
     "my_latest_review": "COMMENTED",
     "my_last_response": "2026-07-21T13:11:06Z",
+    "last_response": {
+        "at": "2026-07-22T00:17:30Z",
+        "by": "TomSweeneyRedHat"
+    },
     "reviews": {
         "TomSweeneyRedHat": "COMMENTED",
         "nalind": "APPROVED",

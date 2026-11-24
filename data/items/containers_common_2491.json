@@ -21,6 +21,10 @@
     ],
     "my_latest_review": "COMMENTED",
     "my_last_response": "2025-08-06T13:39:51Z",
+    "last_response": {
+        "at": "2025-08-06T16:43:45Z",
+        "by": "mheon"
+    },
     "reviews": {
         "sourcery-ai[bot]": "APPROVED",
         "mheon": "COMMENTED",

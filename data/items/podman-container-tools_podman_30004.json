@@ -17,6 +17,10 @@
     ],
     "my_latest_review": null,
     "my_last_response": "2026-10-19T17:38:11Z",
+    "last_response": {
+        "at": "2026-10-20T09:51:34Z",
+        "by": "Honny1"
+    },
     "reviews": {
         "Honny1": "APPROVED",
         "nalind": "APPROVED"

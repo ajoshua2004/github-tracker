@@ -17,6 +17,10 @@
     ],
     "my_latest_review": null,
     "my_last_response": null,
+    "last_response": {
+        "at": "2026-09-14T16:58:21Z",
+        "by": "Luap99"
+    },
     "reviews": {
         "Luap99": "APPROVED"
     },

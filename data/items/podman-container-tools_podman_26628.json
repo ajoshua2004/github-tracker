@@ -25,6 +25,10 @@
     ],
     "my_latest_review": "COMMENTED",
     "my_last_response": "2025-07-22T16:34:56Z",
+    "last_response": {
+        "at": "2025-07-24T11:00:38Z",
+        "by": "Luap99"
+    },
     "reviews": {
         "Luap99": "APPROVED",
         "flouthoc": "COMMENTED",

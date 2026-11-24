@@ -13,5 +13,6 @@
     "state": "closed",
     "state_reason": "completed",
     "my_last_response": null,
+    "last_response": null,
     "comments": 0
 }

@@ -17,6 +17,10 @@
     ],
     "my_latest_review": "APPROVED",
     "my_last_response": "2026-10-30T17:36:24Z",
+    "last_response": {
+        "at": "2026-10-30T17:36:24Z",
+        "by": "ajoshua2004"
+    },
     "reviews": {
         "ajoshua2004": "APPROVED",
         "Akshitguptaa": "COMMENTED",

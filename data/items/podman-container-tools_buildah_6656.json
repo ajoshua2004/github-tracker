@@ -20,6 +20,10 @@
     ],
     "my_latest_review": null,
     "my_last_response": "2026-10-07T04:00:16Z",
+    "last_response": {
+        "at": "2026-10-07T07:55:49Z",
+        "by": "Honny1"
+    },
     "reviews": {
         "TomSweeneyRedHat": "COMMENTED",
         "nalind": "CHANGES_REQUESTED"

@@ -17,6 +17,10 @@
     ],
     "my_latest_review": null,
     "my_last_response": "2026-11-17T16:17:52Z",
+    "last_response": {
+        "at": "2026-11-17T16:17:52Z",
+        "by": "ajoshua2004"
+    },
     "reviews": {},
     "requested_reviewers": [],
     "merged_at": null

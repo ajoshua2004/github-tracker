@@ -20,6 +20,10 @@
     ],
     "my_latest_review": "COMMENTED",
     "my_last_response": "2026-11-04T18:56:49Z",
+    "last_response": {
+        "at": "2026-11-05T22:36:49Z",
+        "by": "mheon"
+    },
     "reviews": {
         "Honny1": "APPROVED",
         "mheon": "COMMENTED",

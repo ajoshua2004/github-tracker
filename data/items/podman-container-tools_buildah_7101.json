@@ -18,6 +18,10 @@
     ],
     "my_latest_review": "COMMENTED",
     "my_last_response": "2026-10-08T01:24:10Z",
+    "last_response": {
+        "at": "2026-10-08T01:24:10Z",
+        "by": "ajoshua2004"
+    },
     "reviews": {
         "nalind": "COMMENTED",
         "Honny1": "APPROVED",

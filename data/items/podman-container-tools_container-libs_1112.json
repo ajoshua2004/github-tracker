@@ -19,6 +19,10 @@
     ],
     "my_latest_review": null,
     "my_last_response": "2026-11-03T14:11:40Z",
+    "last_response": {
+        "at": "2026-11-06T17:56:03Z",
+        "by": "mtrmac"
+    },
     "reviews": {},
     "requested_reviewers": [],
     "merged_at": null

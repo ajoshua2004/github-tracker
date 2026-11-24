@@ -19,6 +19,10 @@
     ],
     "my_latest_review": "APPROVED",
     "my_last_response": "2026-11-17T18:05:58Z",
+    "last_response": {
+        "at": "2026-11-19T16:06:07Z",
+        "by": "boaz2026"
+    },
     "reviews": {
         "mheon": "APPROVED",
         "ajoshua2004": "APPROVED",

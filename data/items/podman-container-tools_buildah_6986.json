@@ -15,5 +15,9 @@
     "state": "closed",
     "state_reason": "completed",
     "my_last_response": "2026-07-22T15:22:24Z",
+    "last_response": {
+        "at": "2026-07-22T15:22:24Z",
+        "by": "ajoshua2004"
+    },
     "comments": 2
 }

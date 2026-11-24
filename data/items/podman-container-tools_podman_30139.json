@@ -16,5 +16,9 @@
     "state": "closed",
     "state_reason": "completed",
     "my_last_response": null,
+    "last_response": {
+        "at": "2026-11-10T06:58:56Z",
+        "by": "Garvity"
+    },
     "comments": 1
 }

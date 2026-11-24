@@ -15,5 +15,9 @@
     "state": "open",
     "state_reason": null,
     "my_last_response": "2026-11-10T13:42:05Z",
+    "last_response": {
+        "at": "2026-11-10T13:42:05Z",
+        "by": "ajoshua2004"
+    },
     "comments": 1
 }

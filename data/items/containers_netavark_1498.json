@@ -17,6 +17,10 @@
     ],
     "my_latest_review": "COMMENTED",
     "my_last_response": "2026-10-07T18:30:03Z",
+    "last_response": {
+        "at": "2026-10-07T18:30:03Z",
+        "by": "ajoshua2004"
+    },
     "reviews": {
         "Luap99": "CHANGES_REQUESTED",
         "hcebke": "COMMENTED",
