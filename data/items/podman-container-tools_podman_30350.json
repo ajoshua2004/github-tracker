@@ -10,17 +10,17 @@
         "kind/api-change"
     ],
     "created_at": "2026-11-23T12:30:09Z",
-    "updated_at": "2026-11-24T14:02:18Z",
+    "updated_at": "2026-11-24T18:09:51Z",
     "closed_at": null,
     "state": "open",
     "draft": false,
     "roles": [
         "reviewer"
     ],
-    "my_latest_review": "CHANGES_REQUESTED",
-    "my_last_response": "2026-11-23T16:43:27Z",
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-11-24T18:09:51Z",
     "reviews": {
-        "ajoshua2004": "CHANGES_REQUESTED",
+        "ajoshua2004": "APPROVED",
         "boaz2026": "COMMENTED"
     },
     "requested_reviewers": [],

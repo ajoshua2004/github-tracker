@@ -1,0 +1,36 @@
+{
+    "type": "pull_request",
+    "organization": "podman-container-tools",
+    "repository": "buildah",
+    "number": 6927,
+    "title": "Fix .dockerignore wildcard negation directory descent",
+    "url": "https://github.com/podman-container-tools/buildah/pull/6927",
+    "author": "Honny1",
+    "labels": [],
+    "created_at": "2026-06-24T13:18:34Z",
+    "updated_at": "2026-11-24T18:10:27Z",
+    "closed_at": null,
+    "state": "open",
+    "draft": false,
+    "roles": [
+        "reviewer"
+    ],
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-11-24T18:10:27Z",
+    "reviews": {
+        "simonbrauner": "COMMENTED",
+        "simek-m": "APPROVED",
+        "inknos": "COMMENTED",
+        "mtrmac": "COMMENTED",
+        "nalind": "APPROVED",
+        "Honny1": "COMMENTED",
+        "danishprakash": "APPROVED",
+        "ajoshua2004": "APPROVED"
+    },
+    "requested_reviewers": [
+        "mtrmac",
+        "inknos",
+        "simonbrauner"
+    ],
+    "merged_at": null
+}
