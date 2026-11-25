@@ -8,7 +8,7 @@
     "author": "fabric-inc",
     "labels": [],
     "created_at": "2026-11-15T16:45:45Z",
-    "updated_at": "2026-11-23T10:57:45Z",
+    "updated_at": "2026-11-24T23:43:53Z",
     "closed_at": null,
     "state": "open",
     "draft": false,
@@ -18,8 +18,8 @@
     "my_latest_review": "COMMENTED",
     "my_last_response": "2026-11-17T15:42:58Z",
     "last_response": {
-        "at": "2026-11-23T10:57:45Z",
-        "by": "Honny1"
+        "at": "2026-11-24T23:43:53Z",
+        "by": "fabric-inc"
     },
     "reviews": {
         "Honny1": "COMMENTED",
