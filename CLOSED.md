@@ -1,9 +1,9 @@
 # GitHub tracker for ajoshua2004: closed
-![Merged](https://img.shields.io/badge/Merged-33-purple) ![Reviewed](https://img.shields.io/badge/Reviewed-50-orange) ![Closed issues](https://img.shields.io/badge/Closed_issues-11-blue)
+![Merged](https://img.shields.io/badge/Merged-33-purple) ![Reviewed](https://img.shields.io/badge/Reviewed-52-orange) ![Closed issues](https://img.shields.io/badge/Closed_issues-11-blue)
 
 <br/>
 
-PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 25, 2026 9:04 AM** (Eastern).
+PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 25, 2026 4:45 PM** (Eastern).
 
 [← Open](README.md) · **Closed**
 
@@ -14,6 +14,8 @@ PRs and issues I've opened or reviewed across `podman-container-tools`, `contain
 | Type | Title | Repo | Status | My last response | Last response |
 |---|---|---|---|---|---|
 | My Pull Request | [compat: backfill empty PortBindings and warn for API >= 1.52](https://github.com/podman-container-tools/podman/pull/30327) | `podman#30327` | Merged | — | Nov 24, 2026 8:40 AM by mheon |
+| Reviewing Pull Request | [Fix a lint warning on macOS (and FreeBSD)](https://github.com/podman-container-tools/container-libs/pull/1395) by mtrmac | `container-libs#1395` | Merged | Nov 25, 2026 9:22 AM | Nov 25, 2026 3:26 PM by mtrmac |
+| Reviewing Pull Request | [overlay: add a Volatile option, used for the context overlay](https://github.com/podman-container-tools/buildah/pull/7237) by fabric-inc | `buildah#7237` | Merged | Nov 25, 2026 9:02 AM | Nov 25, 2026 12:33 PM by Honny1 |
 | Reviewing Pull Request | [api/compat: preserve author in image inspect responses](https://github.com/podman-container-tools/podman/pull/30339) by Elvand-Lie | `podman#30339` | Merged | Nov 23, 2026 1:16 PM | Nov 23, 2026 1:16 PM by ajoshua2004 |
 | Reviewing Pull Request | [Set NoInfra when cloning pods without an infra container](https://github.com/podman-container-tools/podman/pull/30349) by Honny1 | `podman#30349` | Merged | Nov 23, 2026 11:49 AM | Nov 24, 2026 7:29 AM by Luap99 |
 | Reviewing Pull Request | [Add support for unmasking read-only paths to --security-opt unmask](https://github.com/podman-container-tools/buildah/pull/7228) by lgimberis-ct | `buildah#7228` | Merged | Nov 23, 2026 10:44 AM | Nov 24, 2026 12:20 PM by Luap99 |
