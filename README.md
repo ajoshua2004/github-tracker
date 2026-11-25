@@ -1,9 +1,9 @@
 # GitHub tracker for ajoshua2004
-![My PRs](https://img.shields.io/badge/My_PRs-2-brightgreen) ![Drafts](https://img.shields.io/badge/Drafts-1-lightgrey) ![Reviewing](https://img.shields.io/badge/Reviewing-14-orange) ![Open issues](https://img.shields.io/badge/Open_issues-1-blue)
+![My PRs](https://img.shields.io/badge/My_PRs-2-brightgreen) ![Drafts](https://img.shields.io/badge/Drafts-1-lightgrey) ![Reviewing](https://img.shields.io/badge/Reviewing-13-orange) ![Open issues](https://img.shields.io/badge/Open_issues-1-blue)
 
 <br/>
 
-PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 25, 2026 12:28 AM** (Eastern).
+PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 25, 2026 9:04 AM** (Eastern).
 
 **Open** · [Closed →](CLOSED.md)
 
@@ -20,14 +20,13 @@ PRs and issues I've opened or reviewed across `podman-container-tools`, `contain
 |---|---|---|---|---|
 | [internal/rpc/control: add DiskUsage and Prune](https://github.com/podman-container-tools/buildah/pull/7216) | `buildah#7216` | Draft | Nov 17, 2026 11:17 AM | Nov 17, 2026 11:17 AM by ajoshua2004 |
 
-## Reviewing Pull Request (14)
+## Reviewing Pull Request (13)
 
 | PR | Repo | Status | My last response | Last response |
 |---|---|---|---|---|
-| [overlay: add a Volatile option, used for the context overlay](https://github.com/podman-container-tools/buildah/pull/7237) by fabric-inc | `buildah#7237` | Commented | Nov 17, 2026 10:42 AM | Nov 24, 2026 6:43 PM by fabric-inc |
+| [overlay: add a Volatile option, used for the context overlay](https://github.com/podman-container-tools/buildah/pull/7237) by fabric-inc | `buildah#7237` | Approved | Nov 25, 2026 9:02 AM | Nov 25, 2026 9:02 AM by ajoshua2004 |
 | [Fix .dockerignore wildcard negation directory descent](https://github.com/podman-container-tools/buildah/pull/6927) by Honny1 | `buildah#6927` | Approved | Nov 24, 2026 1:10 PM | Nov 24, 2026 1:10 PM by ajoshua2004 |
 | [compat/api: limit secrets/create request body to 4MiB](https://github.com/podman-container-tools/podman/pull/30350) by boaz2026 | `podman#30350` | Approved | Nov 24, 2026 1:09 PM | Nov 24, 2026 1:09 PM by ajoshua2004 |
-| [Add support for unmasking read-only paths to --security-opt unmask](https://github.com/podman-container-tools/buildah/pull/7228) by lgimberis-ct | `buildah#7228` | Approved | Nov 23, 2026 10:44 AM | Nov 24, 2026 12:20 PM by Luap99 |
 | [build: validate that --rm and --force-rm require --layers or --no-cache](https://github.com/podman-container-tools/podman/pull/30234) by tosin2013 | `podman#30234` | Commented | Nov 12, 2026 12:58 PM | Nov 24, 2026 3:30 AM by arsalanyavari |
 | [Refactor: moving logic from internal to pkg/output](https://github.com/podman-container-tools/buildah/pull/7217) by hihry | `buildah#7217` | Changes Requested | Nov 23, 2026 1:10 PM | Nov 23, 2026 1:10 PM by ajoshua2004 |
 | [compat: support platform in image inspect](https://github.com/podman-container-tools/podman/pull/30335) by chala2001 | `podman#30335` | Approved | Nov 23, 2026 11:54 AM | Nov 23, 2026 11:54 AM by ajoshua2004 |

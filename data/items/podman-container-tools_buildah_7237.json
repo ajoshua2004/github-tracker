@@ -8,25 +8,28 @@
     "author": "fabric-inc",
     "labels": [],
     "created_at": "2026-11-15T16:45:45Z",
-    "updated_at": "2026-11-24T23:43:53Z",
+    "updated_at": "2026-11-25T14:02:08Z",
     "closed_at": null,
     "state": "open",
     "draft": false,
     "roles": [
         "reviewer"
     ],
-    "my_latest_review": "COMMENTED",
-    "my_last_response": "2026-11-17T15:42:58Z",
+    "my_latest_review": "APPROVED",
+    "my_last_response": "2026-11-25T14:02:08Z",
     "last_response": {
-        "at": "2026-11-24T23:43:53Z",
-        "by": "fabric-inc"
+        "at": "2026-11-25T14:02:08Z",
+        "by": "ajoshua2004"
     },
     "reviews": {
-        "Honny1": "COMMENTED",
-        "ajoshua2004": "COMMENTED",
+        "Honny1": "APPROVED",
+        "ajoshua2004": "APPROVED",
         "Luap99": "COMMENTED",
         "fabric-inc": "COMMENTED"
     },
-    "requested_reviewers": [],
+    "requested_reviewers": [
+        "giuseppe",
+        "Luap99"
+    ],
     "merged_at": null
 }

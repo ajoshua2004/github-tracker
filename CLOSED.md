@@ -1,9 +1,9 @@
 # GitHub tracker for ajoshua2004: closed
-![Merged](https://img.shields.io/badge/Merged-33-purple) ![Reviewed](https://img.shields.io/badge/Reviewed-49-orange) ![Closed issues](https://img.shields.io/badge/Closed_issues-11-blue)
+![Merged](https://img.shields.io/badge/Merged-33-purple) ![Reviewed](https://img.shields.io/badge/Reviewed-50-orange) ![Closed issues](https://img.shields.io/badge/Closed_issues-11-blue)
 
 <br/>
 
-PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 25, 2026 12:28 AM** (Eastern).
+PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 25, 2026 9:04 AM** (Eastern).
 
 [← Open](README.md) · **Closed**
 
@@ -16,6 +16,7 @@ PRs and issues I've opened or reviewed across `podman-container-tools`, `contain
 | My Pull Request | [compat: backfill empty PortBindings and warn for API >= 1.52](https://github.com/podman-container-tools/podman/pull/30327) | `podman#30327` | Merged | — | Nov 24, 2026 8:40 AM by mheon |
 | Reviewing Pull Request | [api/compat: preserve author in image inspect responses](https://github.com/podman-container-tools/podman/pull/30339) by Elvand-Lie | `podman#30339` | Merged | Nov 23, 2026 1:16 PM | Nov 23, 2026 1:16 PM by ajoshua2004 |
 | Reviewing Pull Request | [Set NoInfra when cloning pods without an infra container](https://github.com/podman-container-tools/podman/pull/30349) by Honny1 | `podman#30349` | Merged | Nov 23, 2026 11:49 AM | Nov 24, 2026 7:29 AM by Luap99 |
+| Reviewing Pull Request | [Add support for unmasking read-only paths to --security-opt unmask](https://github.com/podman-container-tools/buildah/pull/7228) by lgimberis-ct | `buildah#7228` | Merged | Nov 23, 2026 10:44 AM | Nov 24, 2026 12:20 PM by Luap99 |
 | Reviewing Pull Request | [rpm: Drop libtrust_openssl build tag](https://github.com/podman-container-tools/buildah/pull/7242) by yselkowitz | `buildah#7242` | Merged | Nov 19, 2026 12:57 PM | Nov 23, 2026 4:29 AM by Honny1 |
 | Issue | [Empty PortBindings create warning (Docker deprecates auto-backfill of empty HostIP/HostPort)](https://github.com/podman-container-tools/podman/issues/30326) | `podman#30326` | Completed | Nov 19, 2026 1:46 PM | Nov 19, 2026 1:46 PM by ajoshua2004 |
 | Issue | [Support `volume-driver=` options in `mount type=volume`](https://github.com/podman-container-tools/podman/issues/30139) | `podman#30139` | Completed | — | Nov 10, 2026 1:58 AM by Garvity |
