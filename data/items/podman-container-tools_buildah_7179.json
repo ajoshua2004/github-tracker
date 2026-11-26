@@ -10,7 +10,7 @@
         "stale-pr"
     ],
     "created_at": "2026-10-20T19:35:04Z",
-    "updated_at": "2026-11-26T01:37:36Z",
+    "updated_at": "2026-11-26T12:18:22Z",
     "closed_at": null,
     "state": "open",
     "draft": false,
@@ -20,8 +20,8 @@
     "my_latest_review": "APPROVED",
     "my_last_response": "2026-10-26T13:47:15Z",
     "last_response": {
-        "at": "2026-10-26T13:47:15Z",
-        "by": "ajoshua2004"
+        "at": "2026-11-26T12:18:22Z",
+        "by": "Honny1"
     },
     "reviews": {
         "Honny1": "APPROVED",

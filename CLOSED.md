@@ -3,13 +3,13 @@
 
 <br/>
 
-PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 25, 2026 11:10 PM** (Eastern).
+PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 26, 2026 4:38 PM** (Eastern).
 
 [← Open](README.md) · **Closed**
 
 ## November 2026
 
-### Nov 19 – Nov 25 (this week)
+### Nov 19 – Nov 25
 
 | Type | Title | Repo | Status | My last response | Last response |
 |---|---|---|---|---|---|
