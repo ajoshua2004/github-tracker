@@ -3,7 +3,7 @@
 
 <br/>
 
-PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 25, 2026 4:45 PM** (Eastern).
+PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 25, 2026 11:10 PM** (Eastern).
 
 **Open** · [Closed →](CLOSED.md)
 
@@ -25,6 +25,7 @@ PRs and issues I've opened or reviewed across `podman-container-tools`, `contain
 
 | PR | Repo | Status | My last response | Last response |
 |---|---|---|---|---|
+| [imagebuildah: persist WORKDIR directories](https://github.com/podman-container-tools/buildah/pull/7179) by sairex53 | `buildah#7179` | Approved | Oct 26, 2026 9:47 AM | Oct 26, 2026 9:47 AM by ajoshua2004 |
 | [Fix .dockerignore wildcard negation directory descent](https://github.com/podman-container-tools/buildah/pull/6927) by Honny1 | `buildah#6927` | Approved | Nov 24, 2026 1:10 PM | Nov 25, 2026 12:36 PM by Honny1 |
 | [compat/api: limit secrets/create request body to 4MiB](https://github.com/podman-container-tools/podman/pull/30350) by boaz2026 | `podman#30350` | Approved | Nov 24, 2026 1:09 PM | Nov 24, 2026 1:09 PM by ajoshua2004 |
 | [build: validate that --rm and --force-rm require --layers or --no-cache](https://github.com/podman-container-tools/podman/pull/30234) by tosin2013 | `podman#30234` | Commented | Nov 12, 2026 12:58 PM | Nov 24, 2026 3:30 AM by arsalanyavari |
@@ -34,7 +35,6 @@ PRs and issues I've opened or reviewed across `podman-container-tools`, `contain
 | [Docs/clarify windows config paths](https://github.com/podman-container-tools/container-libs/pull/1041) by sahithicinchalapu | `container-libs#1041` | Commented | Sep 17, 2026 3:42 PM | Nov 3, 2026 8:33 AM by Honny1 |
 | [imagebuildah: make context overlay best-effort](https://github.com/podman-container-tools/buildah/pull/7180) by sairex53 | `buildah#7180` | Changes Requested | Oct 26, 2026 1:29 PM | Oct 29, 2026 5:42 AM by Honny1 |
 | [imagebuildah: resolve ARG before additional context lookup](https://github.com/podman-container-tools/buildah/pull/7181) by sairex53 | `buildah#7181` | Changes Requested | Oct 26, 2026 10:25 AM | Oct 29, 2026 5:41 AM by Honny1 |
-| [imagebuildah: persist WORKDIR directories](https://github.com/podman-container-tools/buildah/pull/7179) by sairex53 | `buildah#7179` | Approved | Oct 26, 2026 9:47 AM | Oct 26, 2026 9:47 AM by ajoshua2004 |
 | [fix: allow broadcast and multicast traffic to reach container via por…](https://github.com/containers/netavark/pull/1494) by Rickydama3 | `netavark#1494` | Changes Requested | Oct 7, 2026 2:55 PM | Oct 7, 2026 2:55 PM by ajoshua2004 |
 | [Don't leak sysctl.d drop-ins for internal networks](https://github.com/containers/netavark/pull/1498) by hcebke | `netavark#1498` | Commented | Oct 7, 2026 2:30 PM | Oct 7, 2026 2:30 PM by ajoshua2004 |
 
