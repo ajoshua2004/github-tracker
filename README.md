@@ -3,7 +3,7 @@
 
 <br/>
 
-PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 26, 2026 4:38 PM** (Eastern).
+PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 26, 2026 11:18 PM** (Eastern).
 
 **Open** · [Closed →](CLOSED.md)
 
@@ -25,8 +25,8 @@ PRs and issues I've opened or reviewed across `podman-container-tools`, `contain
 
 | PR | Repo | Status | My last response | Last response |
 |---|---|---|---|---|
-| [Fix .dockerignore wildcard negation directory descent](https://github.com/podman-container-tools/buildah/pull/6927) by Honny1 | `buildah#6927` | Approved | Nov 24, 2026 1:10 PM | Nov 26, 2026 10:29 AM by nalind |
 | [imagebuildah: persist WORKDIR directories](https://github.com/podman-container-tools/buildah/pull/7179) by sairex53 | `buildah#7179` | Approved | Oct 26, 2026 9:47 AM | Nov 26, 2026 7:18 AM by Honny1 |
+| [Fix .dockerignore wildcard negation directory descent](https://github.com/podman-container-tools/buildah/pull/6927) by Honny1 | `buildah#6927` | Approved | Nov 24, 2026 1:10 PM | Nov 26, 2026 10:29 AM by nalind |
 | [compat/api: limit secrets/create request body to 4MiB](https://github.com/podman-container-tools/podman/pull/30350) by boaz2026 | `podman#30350` | Approved | Nov 24, 2026 1:09 PM | Nov 24, 2026 1:09 PM by ajoshua2004 |
 | [build: validate that --rm and --force-rm require --layers or --no-cache](https://github.com/podman-container-tools/podman/pull/30234) by tosin2013 | `podman#30234` | Commented | Nov 12, 2026 12:58 PM | Nov 24, 2026 3:30 AM by arsalanyavari |
 | [Refactor: moving logic from internal to pkg/output](https://github.com/podman-container-tools/buildah/pull/7217) by hihry | `buildah#7217` | Changes Requested | Nov 23, 2026 1:10 PM | Nov 23, 2026 1:10 PM by ajoshua2004 |

@@ -6,11 +6,9 @@
     "title": "imagebuildah: persist WORKDIR directories",
     "url": "https://github.com/podman-container-tools/buildah/pull/7179",
     "author": "sairex53",
-    "labels": [
-        "stale-pr"
-    ],
+    "labels": [],
     "created_at": "2026-10-20T19:35:04Z",
-    "updated_at": "2026-11-26T12:18:22Z",
+    "updated_at": "2026-11-27T01:37:44Z",
     "closed_at": null,
     "state": "open",
     "draft": false,
