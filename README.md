@@ -3,7 +3,7 @@
 
 <br/>
 
-PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 27, 2026 4:22 PM** (Eastern).
+PRs and issues I've opened or reviewed across `podman-container-tools`, `containers`. Updated hourly on weekdays by GitHub Actions. Last updated **Nov 27, 2026 10:56 PM** (Eastern).
 
 **Open** · [Closed →](CLOSED.md)
 
@@ -25,7 +25,7 @@ PRs and issues I've opened or reviewed across `podman-container-tools`, `contain
 
 | PR | Repo | Status | My last response | Last response |
 |---|---|---|---|---|
-| [compat: support platform in image inspect](https://github.com/podman-container-tools/podman/pull/30335) by chala2001 | `podman#30335` | Approved | Nov 23, 2026 11:54 AM | Nov 27, 2026 1:04 PM by Honny1 |
+| [compat: support platform in image inspect](https://github.com/podman-container-tools/podman/pull/30335) by chala2001 | `podman#30335` | Approved | Nov 23, 2026 11:54 AM | Nov 27, 2026 10:51 PM by chala2001 |
 | [imagebuildah: persist WORKDIR directories](https://github.com/podman-container-tools/buildah/pull/7179) by sairex53 | `buildah#7179` | Approved | Oct 26, 2026 9:47 AM | Nov 26, 2026 7:18 AM by Honny1 |
 | [Fix .dockerignore wildcard negation directory descent](https://github.com/podman-container-tools/buildah/pull/6927) by Honny1 | `buildah#6927` | Approved | Nov 24, 2026 1:10 PM | Nov 26, 2026 10:29 AM by nalind |
 | [compat/api: limit secrets/create request body to 4MiB](https://github.com/podman-container-tools/podman/pull/30350) by boaz2026 | `podman#30350` | Approved | Nov 24, 2026 1:09 PM | Nov 24, 2026 1:09 PM by ajoshua2004 |
